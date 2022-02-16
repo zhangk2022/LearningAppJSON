@@ -80,7 +80,7 @@
 				"id": 0,
 				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
 				"correctIndex": 1,
-				"answers": [
+				"choices": [
 					"true",
 					"false"
 				]
@@ -89,7 +89,7 @@
 				"id": 1,
 				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
 				"correctIndex": 2,
-				"answers": [
+				"choices": [
 					"Change it in the storyboard",
 					"Conform it to the appropriate delegate protocol",
 					"Using modifiers",
@@ -100,7 +100,7 @@
 				"id": 2,
 				"content": "<p>Which of the following allows you to display a table?</p>",
 				"correctIndex": 3,
-				"answers": [
+				"choices": [
 					"VStack",
 					"HStack",
 					"ZStack",
@@ -111,7 +111,7 @@
 				"id": 3,
 				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
 				"correctIndex": 0,
-				"answers": [
+				"choices": [
 					"true",
 					"false"
 				]
@@ -120,7 +120,7 @@
 				"id": 4,
 				"content": "<p>Select the best answer.</p>",
 				"correctIndex": 3,
-				"answers": [
+				"choices": [
 					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
 					"You can add UIKit views to a SwiftUI project using representable objects",
 					"SwiftUI and UIKit are separate, and shouldn't be integrated",
@@ -131,7 +131,7 @@
 				"id": 5,
 				"content": "<p>In SwiftUI, interfaces are created:</p>",
 				"correctIndex": 2,
-				"answers": [
+				"choices": [
 					"Procedurally",
 					"Dynamically",
 					"Declaratively",
@@ -142,7 +142,7 @@
 				"id": 6,
 				"content": "<p>Prefixing a property wrapped property with $ will access its",
 				"correctIndex": 1,
-				"answers": [
+				"choices": [
 					"Wrapped value",
 					"Projected value",
 					"Financial value",
